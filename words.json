@@ -1,0 +1,494 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "word": "clochard",
+      "pos": "nom",
+      "meaning": "Personne sans travail et sans maison.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [
+        "social"
+      ],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "sollicitation",
+      "pos": "nom",
+      "meaning": "Demande pressante adressée à quelqu’un.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "faveur",
+      "pos": "nom",
+      "meaning": "Avantage accordé à quelqu’un parce qu’on l’aime bien ou pour lui faire plaisir.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "enfler",
+      "pos": "verbe",
+      "meaning": "Augmenter de volume.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "sobriété",
+      "pos": "nom",
+      "meaning": "Qualité de ce qui est simple, modéré ; façon de s’exprimer sans excès.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "franc-bord",
+      "pos": "nom",
+      "meaning": "Partie située entre le pont et le bord d’un navire.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [
+        "marine"
+      ],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "assombrir",
+      "pos": "verbe",
+      "meaning": "Rendre plus sombre (des couleurs, une ambiance).",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "Maures",
+      "pos": "nom propre",
+      "meaning": "Peuples qui vivaient dans la Mauritanie de l’Antiquité.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [
+        "histoire"
+      ],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "léguer",
+      "pos": "verbe",
+      "meaning": "Transmettre par testament.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "s’acharner",
+      "pos": "verbe",
+      "meaning": "Combattre/insister avec violence ; se montrer tenace contre quelqu’un ou quelque chose.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "chaland",
+      "pos": "nom",
+      "meaning": "Grande embarcation utilisée sur les fleuves/canaux ; barge.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [
+        "marine"
+      ],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "cargaison",
+      "pos": "nom",
+      "meaning": "Ensemble des marchandises transportées par un navire, un avion, un camion.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "bourrasque",
+      "pos": "nom",
+      "meaning": "Coup de vent bref et violent.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "comestible",
+      "pos": "adjectif",
+      "meaning": "Qui peut être mangé.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "hutte",
+      "pos": "nom",
+      "meaning": "Cabane faite avec des branches ou des matériaux naturels.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "pieu",
+      "pos": "nom",
+      "meaning": "Longue pièce de bois ou de métal qu’on fiche en terre pour soutenir quelque chose.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "âtre",
+      "pos": "nom",
+      "meaning": "Foyer d’une cheminée.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "banni",
+      "pos": "adjectif",
+      "meaning": "Chassé de son pays ; exilé.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "froment",
+      "pos": "nom",
+      "meaning": "Blé tendre.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "taverne",
+      "pos": "nom",
+      "meaning": "Cabaret ; lieu où l’on boit et mange.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "mettre en pièces",
+      "pos": "expression",
+      "meaning": "Mettre en morceaux ; détruire complètement.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "vasque",
+      "pos": "nom",
+      "meaning": "Cuvette peu profonde.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "bas-fond",
+      "pos": "nom",
+      "meaning": "Petite vallée, creux du terrain ; zone peu profonde.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "chavirer",
+      "pos": "verbe",
+      "meaning": "Tomber, se renverser brusquement (pour un navire : se retourner).",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [
+        "marine"
+      ],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "garnement",
+      "pos": "nom",
+      "meaning": "Petit garçon espiègle et turbulent mais pas méchant.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "sacrilège",
+      "pos": "nom",
+      "meaning": "Acte irrespectueux envers ce qui est sacré.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "calamité",
+      "pos": "nom",
+      "meaning": "Grand malheur provoquant beaucoup de souffrances.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "serment",
+      "pos": "nom",
+      "meaning": "Promesse solennelle faite devant témoins ou autorité.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "affliction",
+      "pos": "nom",
+      "meaning": "Profonde tristesse, douleur morale.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "tirade",
+      "pos": "nom",
+      "meaning": "Longue suite de paroles dites avec passion ou colère.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "léthargie",
+      "pos": "nom",
+      "meaning": "État d’extrême fatigue, d’inactivité ou de sommeil prolongé.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "héréditaire",
+      "pos": "adjectif",
+      "meaning": "Qui se transmet de génération en génération.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "charlatan",
+      "pos": "nom",
+      "meaning": "Personne qui trompe en prétendant des compétences qu’elle n’a pas.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "rengaine",
+      "pos": "nom",
+      "meaning": "Chanson, formule ou idée qui revient sans cesse ; refrain.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "pichenette",
+      "pos": "nom",
+      "meaning": "Petit coup donné du bout du doigt.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "baptisé",
+      "pos": "adjectif",
+      "meaning": "Qui a reçu le baptême.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "mépris",
+      "pos": "nom",
+      "meaning": "Sentiment par lequel on juge quelque chose ou quelqu’un indigne d’estime.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "frimeur",
+      "pos": "nom",
+      "meaning": "Personne qui cherche à se faire remarquer ; m’as-tu-vu.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "ivrogne",
+      "pos": "nom",
+      "meaning": "Personne qui a l’habitude de boire beaucoup et devient ivre.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "enclume",
+      "pos": "nom",
+      "meaning": "Masse de métal sur laquelle on forge.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "ça va barder",
+      "pos": "expression",
+      "meaning": "Ça va très mal tourner ; il va y avoir des problèmes.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [
+        "familier"
+      ],
+      "notes": "",
+      "difficulty": 2
+    },
+    {
+      "word": "enfoiré",
+      "pos": "nom (familier)",
+      "meaning": "Insulte vulgaire ; gros mot.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [
+        "grossier"
+      ],
+      "notes": "",
+      "difficulty": 4
+    },
+    {
+      "word": "en avoir marre",
+      "pos": "expression",
+      "meaning": "Être très fatigué/énervé d’une situation ; en avoir assez.",
+      "example": "",
+      "source": "Notes manuscrites (20-09-2025)",
+      "lang": "Français",
+      "tags": [
+        "familier"
+      ],
+      "notes": "",
+      "difficulty": 2
+    }
+  ]
+}

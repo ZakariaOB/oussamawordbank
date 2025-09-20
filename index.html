@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Oussama’s Word Bank — Light</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container title-row">
+      <div class="logo">OB</div>
+      <div class="title-wrap">
+        <h1>Oussama’s Word Bank</h1>
+        <div class="muted">Collect words from books & manga, write your own explanations, study later.</div>
+      </div>
+      <div class="header-actions">
+        <button class="btn secondary" id="btnToggleEditor" aria-expanded="true" title="Show/Hide Add panel">Hide “Add” panel</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" style="margin-top: 14px;">
+    <div class="grid" id="gridRoot">
+      <!-- Left: Editor + Bulk add (collapsible) -->
+      <section class="card editor-panel" id="editorPanel">
+        <div class="section-title">
+          <h2 id="formTitle">Add a word</h2>
+          <div class="tabs">
+            <button class="tab active" data-tab="editor">Editor</button>
+            <button class="tab" data-tab="bulk">Bulk add</button>
+            <button class="tab" data-tab="study">Study</button>
+          </div>
+        </div>
+
+        <!-- Editor -->
+        <div id="tab-editor">
+          <form id="form" class="fade-in">
+            <input type="hidden" id="id" />
+            <div class="grid-2">
+              <div>
+                <label>Word</label>
+                <input id="word" type="text" placeholder="e.g. epiphany" required />
+              </div>
+              <div>
+                <label>Part of speech</label>
+                <select id="pos">
+                  <option value="noun">Noun</option>
+                  <option value="verb">Verb</option>
+                  <option value="adjective">Adjective</option>
+                  <option value="adverb">Adverb</option>
+                  <option value="expression">Expression</option>
+                  <option value="other">Other</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="grid-1">
+              <div>
+                <label>Meaning (your own explanation)</label>
+                <textarea id="meaning" placeholder="Write it in your own words…" required></textarea>
+              </div>
+              <div>
+                <label>Example sentence</label>
+                <textarea id="example" placeholder="Use the word in a sentence…"></textarea>
+              </div>
+            </div>
+
+            <div class="grid-2">
+              <div>
+                <label>Source (book/manga/episode)</label>
+                <input id="source" type="text" placeholder="e.g. One Piece ch. 1079" />
+              </div>
+              <div>
+                <label>Language</label>
+                <input id="lang" type="text" placeholder="e.g. English, Français, العربية" />
+              </div>
+            </div>
+
+            <div class="grid-2">
+              <div>
+                <label>Tags (comma separated)</label>
+                <input id="tags" type="text" placeholder="e.g. philosophy, battle, slang" />
+              </div>
+              <div>
+                <label>Difficulty (1 easy → 5 hard)</label>
+                <input id="difficulty" type="number" min="1" max="5" value="2" />
+              </div>
+            </div>
+
+            <div class="grid-1">
+              <div>
+                <label>Notes</label>
+                <textarea id="notes" placeholder="Any extra context or mnemonic…"></textarea>
+              </div>
+            </div>
+
+            <div class="toolbar" style="margin-top:12px;">
+              <button class="btn success" type="submit" id="btnSave">Save</button>
+              <button class="btn secondary" type="button" id="btnReset">Reset</button>
+            </div>
+          </form>
+        </div>
+
+        <!-- Bulk add (simple mode) -->
+        <div id="tab-bulk" style="display:none;" class="fade-in">
+          <p class="muted">Paste one entry per line. Format: <code>word - meaning</code>. Example lines:</p>
+          <pre class="kbd" style="white-space:pre-wrap;">epiphany - a sudden personal realization
+bravado - a bold manner intended to impress
+</pre>
+          <textarea id="bulkArea" placeholder="word - meaning
+word - meaning
+…" style="min-height:150px"></textarea>
+          <div class="toolbar" style="margin-top:10px;">
+            <button class="btn" id="btnBulkPreview">Preview</button>
+            <button class="btn success" id="btnBulkImport">Add to list</button>
+          </div>
+          <div id="bulkPreview" class="muted" style="margin-top:8px"></div>
+        </div>
+
+        <!-- Study -->
+        <div id="tab-study" style="display:none;" class="fade-in">
+          <div class="muted" style="margin-bottom:10px;">Quick study mode: Flip flashcards of your saved words.</div>
+          <div id="cardStudy" class="study-card">
+            <div id="studyWord" class="study-word">—</div>
+            <div id="studyMeta" class="muted" style="margin-top:6px;">—</div>
+            <div id="studyAnswer" style="margin-top:12px; display:none;">
+              <div id="studyMeaning" style="font-size:16px; line-height:1.5"></div>
+              <div id="studyExample" class="muted" style="margin-top:8px; font-style:italic"></div>
+            </div>
+          </div>
+          <div class="toolbar" style="margin-top:10px;">
+            <button class="btn" id="btnNext">Next</button>
+            <button class="btn secondary" id="btnReveal">Reveal</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right: List & search -->
+      <section class="card list-panel" id="listPanel">
+        <div class="section-title">
+          <h2>Dictionary</h2>
+          <div class="pill" id="stats">0 words</div>
+        </div>
+        <div class="toolbar">
+          <input class="grow" id="q" type="search" placeholder="Search… (press / to focus)" />
+          <select id="sort">
+            <option value="-createdAt">Newest</option>
+            <option value="word">A → Z</option>
+            <option value="-difficulty">Hardest</option>
+            <option value="source">Source</option>
+          </select>
+          <button class="btn secondary" id="btnExport" title="Download JSON">Export</button>
+          <label class="btn secondary" for="fileImport" title="Load from JSON">Import</label>
+          <input type="file" id="fileImport" accept="application/json" style="display:none" />
+          <button class="btn danger" id="btnClear" title="Erase local data">Clear</button>
+        </div>
+
+        <div class="table-wrap">
+          <table id="table">
+            <thead>
+              <tr>
+                <th style="width:18%">Word</th>
+                <th style="width:28%">Meaning</th>
+                <th>Example</th>
+                <th style="width:16%">Meta</th>
+                <th style="width:120px">Actions</th>
+              </tr>
+            </thead>
+            <tbody id="tbody">
+              <tr><td colspan="5" class="empty">Loading…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <p class="footer">Press <span class="kbd">/</span> to focus search • Data persists in your browser. Export creates a new <code>words.json</code> you can replace in the project.</p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
