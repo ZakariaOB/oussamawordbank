@@ -1,7 +1,23 @@
 {
   "version": 1,
+  "exportedAt": "2025-09-20T19:31:58.646Z",
   "entries": [
     {
+      "id": "9901e8fa-0491-445e-9c8e-1be6991d661b",
+      "word": "Rouge",
+      "pos": "noun",
+      "meaning": "Couleur du sang",
+      "example": "",
+      "source": "",
+      "lang": "",
+      "tags": [],
+      "notes": "",
+      "difficulty": 2,
+      "createdAt": 1758396708996,
+      "updatedAt": 1758396708996
+    },
+    {
+      "id": "c88bbe56-0571-4b0d-b494-8e1e578efeee",
       "word": "clochard",
       "pos": "nom",
       "meaning": "Personne sans travail et sans maison.",
@@ -12,9 +28,12 @@
         "social"
       ],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "667cfe1a-539b-4120-8326-ed9091907c78",
       "word": "sollicitation",
       "pos": "nom",
       "meaning": "Demande pressante adressée à quelqu’un.",
@@ -23,9 +42,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "8bbedaf3-af38-4a5d-9ff4-6f62cbeb122d",
       "word": "faveur",
       "pos": "nom",
       "meaning": "Avantage accordé à quelqu’un parce qu’on l’aime bien ou pour lui faire plaisir.",
@@ -34,9 +56,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "c513443a-e12e-440f-9885-213ef6df4f48",
       "word": "enfler",
       "pos": "verbe",
       "meaning": "Augmenter de volume.",
@@ -45,9 +70,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "35985bd8-89a4-4b8a-adad-5d539ae360e4",
       "word": "sobriété",
       "pos": "nom",
       "meaning": "Qualité de ce qui est simple, modéré ; façon de s’exprimer sans excès.",
@@ -56,9 +84,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "f38dc8ca-32a7-4525-9778-5ba758b7b09c",
       "word": "franc-bord",
       "pos": "nom",
       "meaning": "Partie située entre le pont et le bord d’un navire.",
@@ -69,9 +100,12 @@
         "marine"
       ],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "78c33a86-29db-42a4-bdfa-4394dfea57b6",
       "word": "assombrir",
       "pos": "verbe",
       "meaning": "Rendre plus sombre (des couleurs, une ambiance).",
@@ -80,9 +114,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "7fddbf7e-38d3-4b9a-853b-fb1388c8852f",
       "word": "Maures",
       "pos": "nom propre",
       "meaning": "Peuples qui vivaient dans la Mauritanie de l’Antiquité.",
@@ -93,9 +130,12 @@
         "histoire"
       ],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "bbe73ed5-53d9-4c70-923f-3c73771d32ab",
       "word": "léguer",
       "pos": "verbe",
       "meaning": "Transmettre par testament.",
@@ -104,9 +144,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "0b62a079-5c52-4826-87e9-6b002784a16f",
       "word": "s’acharner",
       "pos": "verbe",
       "meaning": "Combattre/insister avec violence ; se montrer tenace contre quelqu’un ou quelque chose.",
@@ -115,9 +158,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "e1f67006-4a2e-461b-8da3-b4619821347b",
       "word": "chaland",
       "pos": "nom",
       "meaning": "Grande embarcation utilisée sur les fleuves/canaux ; barge.",
@@ -128,9 +174,12 @@
         "marine"
       ],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "4e1c0161-4012-48b8-9f68-8f641c21dc2d",
       "word": "cargaison",
       "pos": "nom",
       "meaning": "Ensemble des marchandises transportées par un navire, un avion, un camion.",
@@ -139,9 +188,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "19babab0-d230-4a36-89d2-82a3aa403358",
       "word": "bourrasque",
       "pos": "nom",
       "meaning": "Coup de vent bref et violent.",
@@ -150,9 +202,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "0400d362-fb14-4045-a411-a03f1f60f45b",
       "word": "comestible",
       "pos": "adjectif",
       "meaning": "Qui peut être mangé.",
@@ -161,9 +216,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "81246329-9fc6-492c-86b2-b42596932b49",
       "word": "hutte",
       "pos": "nom",
       "meaning": "Cabane faite avec des branches ou des matériaux naturels.",
@@ -172,9 +230,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "b071187d-909e-4b58-b452-460a01b10187",
       "word": "pieu",
       "pos": "nom",
       "meaning": "Longue pièce de bois ou de métal qu’on fiche en terre pour soutenir quelque chose.",
@@ -183,9 +244,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "9c5f29ab-f4f6-4bca-8c13-1e205d4b5c9b",
       "word": "âtre",
       "pos": "nom",
       "meaning": "Foyer d’une cheminée.",
@@ -194,9 +258,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "78fbae95-f6ad-43b9-bda7-bbfccf758d7d",
       "word": "banni",
       "pos": "adjectif",
       "meaning": "Chassé de son pays ; exilé.",
@@ -205,9 +272,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "78b609b3-27b6-49f7-8929-c5de733946f4",
       "word": "froment",
       "pos": "nom",
       "meaning": "Blé tendre.",
@@ -216,9 +286,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "79ee68dc-5a2c-442a-8e0b-9979da88a9c5",
       "word": "taverne",
       "pos": "nom",
       "meaning": "Cabaret ; lieu où l’on boit et mange.",
@@ -227,9 +300,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "c1c9fb3c-da4c-46f4-9857-4e5d2fc27383",
       "word": "mettre en pièces",
       "pos": "expression",
       "meaning": "Mettre en morceaux ; détruire complètement.",
@@ -238,9 +314,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "20650416-eb67-4b4e-abe6-b6e1db4863dd",
       "word": "vasque",
       "pos": "nom",
       "meaning": "Cuvette peu profonde.",
@@ -249,9 +328,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "f5a9671b-9906-49b2-80f8-713d5190bc0a",
       "word": "bas-fond",
       "pos": "nom",
       "meaning": "Petite vallée, creux du terrain ; zone peu profonde.",
@@ -260,9 +342,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "0ef3522e-0aa9-43d7-99b1-3d14edc1bd68",
       "word": "chavirer",
       "pos": "verbe",
       "meaning": "Tomber, se renverser brusquement (pour un navire : se retourner).",
@@ -273,9 +358,12 @@
         "marine"
       ],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "2463e2fb-b7eb-4db8-8e84-e531d8e65d45",
       "word": "garnement",
       "pos": "nom",
       "meaning": "Petit garçon espiègle et turbulent mais pas méchant.",
@@ -284,9 +372,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "e3463a8c-b31d-4221-94df-b63b1daca1e5",
       "word": "sacrilège",
       "pos": "nom",
       "meaning": "Acte irrespectueux envers ce qui est sacré.",
@@ -295,9 +386,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "7b517a9b-2537-42a5-90e6-ef2c30e860d0",
       "word": "calamité",
       "pos": "nom",
       "meaning": "Grand malheur provoquant beaucoup de souffrances.",
@@ -306,9 +400,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "9b30bb6b-ccf9-42e7-8813-71d8da645480",
       "word": "serment",
       "pos": "nom",
       "meaning": "Promesse solennelle faite devant témoins ou autorité.",
@@ -317,9 +414,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "0d0b1828-086a-4634-8051-eecab0e997ce",
       "word": "affliction",
       "pos": "nom",
       "meaning": "Profonde tristesse, douleur morale.",
@@ -328,9 +428,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "ffa10dea-bf7d-4560-8e29-2b4e5ae2860e",
       "word": "tirade",
       "pos": "nom",
       "meaning": "Longue suite de paroles dites avec passion ou colère.",
@@ -339,9 +442,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "ba3ccbb2-3600-4c5b-9b9e-ec7f256f8695",
       "word": "léthargie",
       "pos": "nom",
       "meaning": "État d’extrême fatigue, d’inactivité ou de sommeil prolongé.",
@@ -350,9 +456,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "26c8bf5b-29f9-4b10-896a-425668b85540",
       "word": "héréditaire",
       "pos": "adjectif",
       "meaning": "Qui se transmet de génération en génération.",
@@ -361,9 +470,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "d2dc3808-48a4-4d7a-bc44-ea9428f535cd",
       "word": "charlatan",
       "pos": "nom",
       "meaning": "Personne qui trompe en prétendant des compétences qu’elle n’a pas.",
@@ -372,9 +484,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "42f0836c-707b-4b9b-a7ce-9005b26a2179",
       "word": "rengaine",
       "pos": "nom",
       "meaning": "Chanson, formule ou idée qui revient sans cesse ; refrain.",
@@ -383,9 +498,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "0a741426-428a-408d-ade9-ff1352410825",
       "word": "pichenette",
       "pos": "nom",
       "meaning": "Petit coup donné du bout du doigt.",
@@ -394,9 +512,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "e64d7d74-cb04-49b7-8b2e-7776b4598afa",
       "word": "baptisé",
       "pos": "adjectif",
       "meaning": "Qui a reçu le baptême.",
@@ -405,9 +526,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "eb69d3ce-cb21-4811-8f03-cfb5bf9046b2",
       "word": "mépris",
       "pos": "nom",
       "meaning": "Sentiment par lequel on juge quelque chose ou quelqu’un indigne d’estime.",
@@ -416,9 +540,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "1702edb3-2e03-4029-b8b2-da86580d430d",
       "word": "frimeur",
       "pos": "nom",
       "meaning": "Personne qui cherche à se faire remarquer ; m’as-tu-vu.",
@@ -427,9 +554,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "d76135f0-1997-434e-91ed-6d6459b71ea0",
       "word": "ivrogne",
       "pos": "nom",
       "meaning": "Personne qui a l’habitude de boire beaucoup et devient ivre.",
@@ -438,9 +568,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "cee86c53-e7bb-4a49-b0dd-8138303dcbda",
       "word": "enclume",
       "pos": "nom",
       "meaning": "Masse de métal sur laquelle on forge.",
@@ -449,9 +582,12 @@
       "lang": "Français",
       "tags": [],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "9703d3af-484f-460c-99ce-2dd8114c4cda",
       "word": "ça va barder",
       "pos": "expression",
       "meaning": "Ça va très mal tourner ; il va y avoir des problèmes.",
@@ -462,9 +598,12 @@
         "familier"
       ],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "79940d29-d41f-4301-a1be-f49e2b87e5a1",
       "word": "enfoiré",
       "pos": "nom (familier)",
       "meaning": "Insulte vulgaire ; gros mot.",
@@ -475,9 +614,12 @@
         "grossier"
       ],
       "notes": "",
-      "difficulty": 4
+      "difficulty": 4,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     },
     {
+      "id": "e99a8555-0eaf-4c22-8236-09ead7be0e4a",
       "word": "en avoir marre",
       "pos": "expression",
       "meaning": "Être très fatigué/énervé d’une situation ; en avoir assez.",
@@ -488,7 +630,9 @@
         "familier"
       ],
       "notes": "",
-      "difficulty": 2
+      "difficulty": 2,
+      "createdAt": 1758396663692,
+      "updatedAt": 1758396663692
     }
   ]
 }
